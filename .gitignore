@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .coverage
 *.egg-info/
+data/raw/
+data/real_melbourne_data.csv
+data/predicted_temps.png
